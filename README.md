@@ -5,6 +5,9 @@ zsh configuration
 ## Quickstart
 
 ```bash
+# backup old configuration (optional)
+mv ~/.zshrc ~/.zshrc.bkp
+
 # clone repository
 cd ~/Documents
 git clone https://github.com/sskender/zshrc.git
