@@ -104,4 +104,4 @@ alias t="tmux"
 alias ta="tmux attach"
 
 # Custom settings
-PAGER=
+# PAGER=
