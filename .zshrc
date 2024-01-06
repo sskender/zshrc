@@ -100,8 +100,7 @@ fi
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias c="code ."
-alias t="tmux"
-alias ta="tmux attach"
+alias t="tmux new-session -As meda"
 
 # Custom settings
 # PAGER=
