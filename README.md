@@ -10,7 +10,7 @@ mv ~/.zshrc ~/.zshrc.bkp
 
 # clone repository
 cd ~/Documents
-git clone https://github.com/sskender/zshrc.git
+git clone git@github.com:sskender/zshrc.git
 
 # link zshrc file
 ln -s ~/Documents/zshrc/.zshrc ~/.zshrc
