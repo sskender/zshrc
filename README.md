@@ -13,7 +13,7 @@ cd ~/Documents
 git clone git@github.com:sskender/zshrc.git
 
 # link zshrc file
-ln -s ~/Documents/zshrc/.zshrc ~/.zshrc
+ln -s ~/Documents/zshrc/zshrc ~/.zshrc
 
 # update
 cd ~/Documents/zshrc
