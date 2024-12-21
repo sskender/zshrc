@@ -104,5 +104,8 @@ alias v="nvim ."
 alias c="code ."
 alias t="tmux new-session -As pup"
 
+alias tplan="terraform fmt -recursive && terraform validate && terraform plan"
+alias tapply="terraform apply"
+
 # Custom settings
 # PAGER=
